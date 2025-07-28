@@ -1,0 +1,8 @@
+research_task:
+  description: >
+    {query}
+    from the additional information provided.
+  expected_output: >
+    A clear and conscience answer for the user question {query}
+  agent: researcher
+
